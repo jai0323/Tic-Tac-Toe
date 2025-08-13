@@ -6,6 +6,8 @@
 
 A responsive and interactive Tic-Tac-Toe game built with **React** and **Tailwind CSS**. The game features dynamic animations, move history, winner/draw detection, and a reset functionality.
 
+live link:
+https://tic-tac-toe-ltax.onrender.com/
 ---
 
 ## 🎮 Features
