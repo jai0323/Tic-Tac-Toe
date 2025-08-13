@@ -22,15 +22,15 @@ A responsive and interactive Tic-Tac-Toe game built with **React** and **Tailwin
 
 ## 📸 Screenshots
 
-![Tic-Tac-Toe Board](src/assets/screenshot1.png)  
+![Tic-Tac-Toe Board](assets/screenshot1.png)  
 *Game in progress with current player X.*
 
 
 
-![Winner Display](src/assets/winner.png)  
+![Winner Display](assets/winner.png)  
 *Winner displayed with animation.*
 
-![Match Draw](src/assets/draw.png)  
+![Match Draw](assets/draw.png)  
 *Match draw scenario.*
 
 ---
